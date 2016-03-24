@@ -30,5 +30,10 @@
     "eslint": "^1.10.3",
     "jscs": "^2.9.0",
     "mocha": "^2.4.5"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "fs-extra": "^0.26.5",
+    "glob": "^6.0.4"
   }
 }
